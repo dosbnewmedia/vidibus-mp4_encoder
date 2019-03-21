@@ -6,5 +6,5 @@ gemspec
 gem 'posix-spawn'
 gem 'vidibus-fileinfo', :path => '../vidibus-fileinfo'
 gem 'vidibus-uuid'
-gem 'vidibus-encoder', github: "dosbnewmedia/vidibus-encoder", branch: "dosbnewmedia-dependencies"
+gem 'vidibus-encoder', github: 'dosbnewmedia/vidibus-encoder', branch: 'dosbnewmedia-dependencies'
 gem 'vidibus-encoder', :path => '../vidibus-encoder'
